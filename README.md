@@ -12,8 +12,10 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 
-#### deploy success contract address:
-
-```shell
-0x056E6cf7310b22115B2923fB8014d3f79d842E1e
+#### project url
 ```
+https://waveportal-starter-project.jiashuaichang.repl.co/
+```
+
+#### Screenshot
+![运行截图](imgs/screenshot.png)
